@@ -15,3 +15,4 @@ testing github web hook
 new changes done for build 2
 made some changes for pollscm trigger
 github webhook trigger
+for poll scm made some changes
